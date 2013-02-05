@@ -9,7 +9,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Console Application 1.  Press any key to exit.");
+            Console.WriteLine("Console Application 1. v2 Press any key to exit.");
             Console.ReadKey();
         }
     }
